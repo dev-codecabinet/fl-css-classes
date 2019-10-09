@@ -1,0 +1,22 @@
+{
+  "name": "fl-classes",
+  "version": "1.0.0",
+  "description": "Flexbox classes",
+  "main": "flexbox.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-codecabinet/fl-css-classes.git"
+  },
+  "keywords": [
+    "flexbox"
+  ],
+  "author": "Dev Cabinet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-codecabinet/fl-css-classes/issues"
+  },
+  "homepage": "https://github.com/dev-codecabinet/fl-css-classes#readme"
+}
